@@ -72,7 +72,7 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 <!-- Add dashboard snapshots below -->
 
-![HR Analytics Dashboard](images/hr-analytics-dashboard.png)
+![HR Analytics Dashboard](docs/HR%20Analytics%20Dashboard.png)
 
 ---
 
