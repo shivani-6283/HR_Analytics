@@ -100,9 +100,9 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ## 📍 KEY FINDINGS & BUSINESS IMPLICATIONS
 
-## 1. 👥 Age Group Analysis — Early-Career Retention Risk
+### 1. 👥 Age Group Analysis — Early-Career Retention Risk
 
-### Key Findings
+#### Key Findings
 
 - **Highest attrition rate:** Employees under 25, at **39.18%**, with 38 departures.
 - **Highest departure volume:** Employees aged 25–34, with **112 departures**.
@@ -111,9 +111,9 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-## 2. 🏢 Department-Level Attrition
+### 2. 🏢 Department-Level Attrition
 
-### Key Findings
+#### Key Findings
 
 - **Sales:** Highest department-level attrition rate, at **20.63%**.
 - **R&D:** Highest departure volume, with **133 employees leaving**.
@@ -122,9 +122,9 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-## 3. 💼 Job Role Analysis — Identifying High-Risk Positions
+### 3. 💼 Job Role Analysis — Identifying High-Risk Positions
 
-### Key Findings
+#### Key Findings
 
 #### Highest Attrition Rates
 
@@ -151,9 +151,9 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-## 4. ⭐ Job Satisfaction vs. Attrition Rate
+### 4. ⭐ Job Satisfaction vs. Attrition Rate
 
-### Key Findings
+#### Key Findings
 
 #### High Risk of Quitting at Lower Satisfaction Levels
 
@@ -176,9 +176,9 @@ The drop is not completely smooth for every role:
 
 ---
 
-## 5. ⏱️ Overtime and Employee Attrition
+### 5. ⏱️ Overtime and Employee Attrition
 
-### Key Findings
+#### Key Findings
 
 #### Overall Attrition Comparison
 
