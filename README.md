@@ -20,7 +20,7 @@ The organization therefore requires a systematic analysis of its employee data t
 
 ### 🔎 Key Business Questions
 
-- What is the organization's current workforce size and overall employee attrition count? (add these insights in findings)
+- What is the organization's current workforce size and overall employee attrition count?
 - Which departments and job roles are losing the largest number of employees and more likely to leave the organization?
 - Does working overtime have an association with higher employee attrition?
 - Which age groups have highest departures and more likely to leave the organization?
@@ -100,7 +100,19 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ## 📍 KEY FINDINGS & BUSINESS IMPLICATIONS
 
-### 1. 👥 Age Group Analysis — Early-Career Retention Risk
+### 1. 🧑‍💼 Overall Workforce & Employee Attrition
+
+#### Key Findings
+
+- **Total workforce:** 1,470 employees.
+- **Active employees:** 1,233 employees.
+- **Total attrition:** 237 employees.
+
+**Business Implication:** The organization has a current workforce of 1,470 employees, of which 237 employees have left the organization, while 1,233 remain active resulting in an overall attrition rate of 16.12%. This provides HR with a clear baseline to monitor employee turnover and identify areas that may require improved retention strategies.
+
+---
+
+### 2. 👥 Age Group Analysis — Early-Career Retention Risk
 
 #### Key Findings
 
@@ -111,7 +123,7 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-### 2. 🏢 Department-Level Attrition
+### 3. 🏢 Department-Level Attrition
 
 #### Key Findings
 
@@ -122,7 +134,7 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-### 3. 💼 Job Role Analysis — Identifying High-Risk Positions
+### 4. 💼 Job Role Analysis — Identifying High-Risk Positions
 
 #### Key Findings
 
@@ -151,7 +163,7 @@ These attributes provide a comprehensive view of the organisation's workforce an
 
 ---
 
-### 4. ⭐ Job Satisfaction vs. Attrition Rate
+### 5. ⭐ Job Satisfaction vs. Attrition Rate
 
 #### Key Findings
 
@@ -176,7 +188,7 @@ The drop is not completely smooth for every role:
 
 ---
 
-### 5. ⏱️ Overtime and Employee Attrition
+### 6. ⏱️ Overtime and Employee Attrition
 
 #### Key Findings
 
