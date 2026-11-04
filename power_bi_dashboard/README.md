@@ -13,7 +13,7 @@ To develop an interactive HR Analytics Dashboard that transforms employee data i
 
 ## ⚙️ POWER BI DEVELOPMENT WORKFLOW
 
-## 1. 🗂️ DATA PREPARATION & TRANSFORMATION
+### 1. 🗂️ DATA PREPARATION & TRANSFORMATION
 
 ### Data Import & Preparation
 
@@ -27,7 +27,7 @@ To develop an interactive HR Analytics Dashboard that transforms employee data i
 
 ---
 
-## 2. 📐 MEASURE CREATION
+### 2. 📐 MEASURE CREATION
 
 ### KPI Measures
 
@@ -45,7 +45,7 @@ To develop an interactive HR Analytics Dashboard that transforms employee data i
 
 ---
 
-## 3. 📊 VISUALIZATIONS & DASHBOARD
+### 3. 📊 VISUALIZATIONS & DASHBOARD
 
 ### Dashboard Development
 
