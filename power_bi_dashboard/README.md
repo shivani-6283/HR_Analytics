@@ -67,7 +67,7 @@ To develop an interactive HR Analytics Dashboard that transforms employee data i
 - Implemented **button-based selectors** for Field Parameter switching and employee group selection.
 - Created a Clear All Slicers button using **Bookmarks**, configured to reset slicer selections while preserving the Field Parameter and Employee Group Selector selections.
 
-### Dashboard Formatting
+#### Dashboard Formatting
 
 - Applied consistent theme colors, typography, and visual formatting.
 - Designed KPI cards with appropriate icons, background shapes, and visual hierarchy.
