@@ -7,7 +7,7 @@ To develop an interactive HR Analytics Dashboard that transforms employee data i
 
 <!-- Add dashboard screenshots below -->
 
-![HR Analytics Dashboard](docs/HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard](../docs/HR%20Analytics%20Dashboard.png)
 
 ---
 
