@@ -22,17 +22,18 @@ employees, average salary, average age, and attrition employee metrics.
 SELECT
     COUNT([Employee Number]) AS Employee_Count,
     SUM(CASE WHEN Attrition = 'No' THEN 1 ELSE 0 END) AS Active_Employee,
-    FORMAT(AVG([Monthly Income])/1000, '$0.0K') AS Average_Salary,
-    CAST(AVG(Age) AS DECIMAL(10,0)) AS Average_Age
+    FORMAT(AVG(1.0 * [Monthly Income]) / 1000, '$0.0K') AS Average_Salary,
+    CAST(AVG(1.0 * Age) AS DECIMAL(10,0)) AS Average_Age
 FROM HR_data;
 
 --b.) Attrition Employees
 SELECT
     COUNT(Attrition) AS Employee_Count,
-    FORMAT(AVG([Monthly Income])/1000, '$0.0K') AS Average_Salary,
-    CAST(AVG(Age) AS DECIMAL(10,0)) AS Average_Age
+    FORMAT(AVG(1.0 * [Monthly Income]) / 1000, '$0.0K') AS Average_Salary,
+    CAST(AVG(1.0 * Age) AS DECIMAL(10,0)) AS Average_Age
 FROM HR_data
 WHERE Attrition = 'Yes';
+
 
 /*
 ===============================================================================
