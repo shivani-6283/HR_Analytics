@@ -1,6 +1,5 @@
 ## 🎯 Project Objective
-
-**Project Objective:** To develop an interactive HR Analytics Dashboard that transforms employee data into actionable workforce insights, helping the organization better understand employee attrition patterns and make informed HR management decisions.
+To develop an interactive HR Analytics Dashboard that transforms employee data into actionable workforce insights, helping the organization better understand employee attrition patterns and make informed HR management decisions.
 
 ---
 
@@ -12,7 +11,7 @@
 
 ---
 
-# ⚙️ POWER BI DEVELOPMENT WORKFLOW
+## ⚙️ POWER BI DEVELOPMENT WORKFLOW
 
 ## 1. 🗂️ DATA PREPARATION & TRANSFORMATION
 
