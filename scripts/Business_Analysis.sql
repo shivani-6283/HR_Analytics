@@ -11,8 +11,8 @@ interactive HR dashboard reporting.
 
 /*
 ===============================================================================
-01 | KPI CALCULATIONS
-===============================================================================
+01 - KPI CALCULATIONS
+
 Calculate overall workforce metrics, including total employees, active
 employees, average salary, average age, and attrition employee metrics.
 ===============================================================================
@@ -36,8 +36,8 @@ WHERE Attrition = 'Yes';
 
 /*
 ===============================================================================
-02 | CHART CALCULATIONS
-===============================================================================
+02 - CHART CALCULATIONS
+
 Generate aggregated employee attrition metrics for dashboard visualizations,
 including department, age group, gender, job role, job satisfaction,
 and overtime analysis.
